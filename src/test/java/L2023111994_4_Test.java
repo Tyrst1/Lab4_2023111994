@@ -26,7 +26,7 @@ public class L2023111994_4_Test {
     @Test
     public void testTwoElements() {
         int[] nums = {1, 100};
-        assertEquals(99, solution.maximumGap(nums)); // 错误：应该是99
+        assertEquals(99, solution.maximumGap(nums));
     }
 
     @Test
@@ -44,7 +44,7 @@ public class L2023111994_4_Test {
     @Test
     public void testRandomOrder() {
         int[] nums = {1, 10, 5, 2, 8};
-        assertEquals(3, solution.maximumGap(nums)); // 错误：应该是3
+        assertEquals(3, solution.maximumGap(nums));
     }
 
     @Test
