@@ -8,7 +8,7 @@ public class L2023111994_4_Test {
     @Test
     public void testNormalCase() {
         int[] nums = {3, 6, 9, 1};
-        assertEquals(3, solution.maximumGap(nums)); // 错误：应该是3
+        assertEquals(3, solution.maximumGap(nums));
     }
 
     @Test
