@@ -16,7 +16,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       
-    # 2. 设置Java环境（使用JDK 17）
+    # 2. 设置Java环境
     - name: Set up JDK 17
       uses: actions/setup-java@v4
       with:
