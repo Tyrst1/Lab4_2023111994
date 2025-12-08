@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1df5f5c7-e70a-4f71-96c1-c03130a8d3a3" name="Changes" comment="修正：">
-      <change beforePath="$PROJECT_DIR$/src/test/java/L2023111994_4_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/L2023111994_4_Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="1df5f5c7-e70a-4f71-96c1-c03130a8d3a3" name="Changes" comment="修正：&#10;1.去掉多余的注释" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +112,7 @@
       <workItem from="1764827560539" duration="3690000" />
       <workItem from="1764893635912" duration="3596000" />
       <workItem from="1765094183659" duration="2261000" />
-      <workItem from="1765189741984" duration="2302000" />
+      <workItem from="1765189741984" duration="2918000" />
     </task>
     <task id="LOCAL-00001" summary="新增">
       <option name="closed" value="true" />
@@ -164,7 +162,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765191338817</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修正：">
+      <option name="closed" value="true" />
+      <created>1765195236494</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765195236495</updated>
+    </task>
+    <task id="LOCAL-00008" summary="修正：&#10;1.去掉多余的注释">
+      <option name="closed" value="true" />
+      <created>1765195718527</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765195718527</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +210,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增" />
     <MESSAGE value="修正：" />
-    <option name="LAST_COMMIT_MESSAGE" value="修正：" />
+    <MESSAGE value="修正：&#10;1.去掉多余的注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="修正：&#10;1.去掉多余的注释" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
